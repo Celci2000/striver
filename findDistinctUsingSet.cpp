@@ -21,6 +21,7 @@ int main(){
      string str;
      cin>>str;
      int ans = findDistinct(str);
+     cout<<ans;
       
     return 0;
 }
